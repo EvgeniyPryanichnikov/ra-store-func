@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/95543gts0qyyw37d?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ra-store-func)
+
 Страница интернет-магазина
 ===
 
