@@ -7,7 +7,7 @@ export const ShopItemFunc = (props) => {
   return (
     <div className="main-content">
       <h2>
-        {brand}
+        {brand}                                                    
       </h2>
 
       <h1>
